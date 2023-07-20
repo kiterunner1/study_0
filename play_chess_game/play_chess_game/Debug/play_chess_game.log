@@ -1,0 +1,6 @@
+﻿  game.c
+E:\鹏哥c语言项目\play_chess_game\play_chess_game\game.h(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  task.c
+E:\鹏哥c语言项目\play_chess_game\play_chess_game\game.h(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  play_chess_game.vcxproj -> E:\鹏哥c语言项目\play_chess_game\Debug\play_chess_game.exe
